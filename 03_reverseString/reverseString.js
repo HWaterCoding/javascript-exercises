@@ -6,6 +6,7 @@ const reverseString = function(string) {
     return reversedString;
 };
 
+reverseString("hello");
 
 // Do not edit below this line
 module.exports = reverseString;
