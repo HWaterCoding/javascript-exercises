@@ -44,19 +44,3 @@ const totalIntegers = function(items){
 // Do not edit below this line
 module.exports = totalIntegers;
 
-const myArray = [
-    1,
-    2,
-    "3",
-    4,
-    [3, 4, 
-      [5, 6]
-    ]
-]
-
-const myObject = {
-    number: 1,
-    string: "hello",
-    thisisanarray: [2, 3],
-    number2: 4
-}
